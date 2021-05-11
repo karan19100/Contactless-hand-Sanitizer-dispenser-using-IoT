@@ -93,27 +93,27 @@ So ardiuno is interface with Node MCU wifi Module. using blynk app we can set an
 
 <img src="output/out_1.png" width="600" >
 
-#### As the third person finishes and 4th person start sanitizing his hands the fluid level detector interface with blynk app shows 75 % filled and the counter shows 4 which indicates 4 person has sanitize thier hands and superchart is shown to indicate log records of people sanitizing thier hands daily.after sanitizng the speakers also says thank you for sanitizing your hands and have a nice day!
+##### As the third person finishes and 4th person start sanitizing his hands the fluid level detector interface with blynk app shows 75 % filled and the counter shows 4 which indicates 4 person has sanitize thier hands and superchart is shown to indicate log records of people sanitizing thier hands daily.after sanitizng the speakers also says thank you for sanitizing your hands and have a nice day!
 
 <img src="output/out_2.png" width="600" >
 
-#### As the 5th person finishes and 6th person starts sanitizing his hands the fluid level detector interface with blynk app shows 50 % filled and the counter shows 5 which indicates five person has sanitize thier hands and superchart is shown to indicate log records of people sanitizing thier hands daily.after sanitizng the speakers also says thank you for sanitizing your hands and have a nice day!
+##### As the 5th person finishes and 6th person starts sanitizing his hands the fluid level detector interface with blynk app shows 50 % filled and the counter shows 5 which indicates five person has sanitize thier hands and superchart is shown to indicate log records of people sanitizing thier hands daily.after sanitizng the speakers also says thank you for sanitizing your hands and have a nice day!
 
 <img src="output/out_3.png" width="600" >
 
-#### As the 7th person finishes and 8th person start sanitizing his hands the fluid level detector interface with blynk app shows 25 % filled and the counter shows 7 which indicates seven person has sanitize his hands and superchart is shown to indicate log records of people sanitizing thier hands daily.after sanitizng the speakers also says thank you for sanitizing your hands and have a nice day!
+##### As the 7th person finishes and 8th person start sanitizing his hands the fluid level detector interface with blynk app shows 25 % filled and the counter shows 7 which indicates seven person has sanitize his hands and superchart is shown to indicate log records of people sanitizing thier hands daily.after sanitizng the speakers also says thank you for sanitizing your hands and have a nice day!
 
 <img src="output/out_4.png" width="600" >
 
-#### As the 10th person finishes and 11th person start sanitizing his hands the fluid level detector interface with blynk app shows 25 % filled and the counter shows 11 which indicates eleven person has sanitize thier hands and superchart is shown to indicate log records of people sanitizing thier hands daily.after sanitizng the speakers also says thank you for sanitizing your hands and have a nice day!.as soon as the voice stops we get an email and mobile notification for refilling sanitizer bottle.
+##### As the 10th person finishes and 11th person start sanitizing his hands the fluid level detector interface with blynk app shows 25 % filled and the counter shows 11 which indicates eleven person has sanitize thier hands and superchart is shown to indicate log records of people sanitizing thier hands daily.after sanitizng the speakers also says thank you for sanitizing your hands and have a nice day!.as soon as the voice stops we get an email and mobile notification for refilling sanitizer bottle.
 
 <img src="output/out_5.png" width="600" >
 
-#### As soon as the 10th person finishes sanitizing his hands which means sanitizer bottle is left with very less amount of sanitizer in it so an mobile notification is send in blynk app to remind the person to refill the sanitizer bottle.
+##### As soon as the 10th person finishes sanitizing his hands which means sanitizer bottle is left with very less amount of sanitizer in it so an mobile notification is send in blynk app to remind the person to refill the sanitizer bottle.
 
 <img src="output/mobile_notif.png" width="200" >
 
-#### As soon as the 10th person finishes sanitizing his hands which means sanitizer bottle is left with very less amount of sanitizer in it so an email notification is send in blynk app to remind the person to refill the sanitizer bottle.
+##### As soon as the 10th person finishes sanitizing his hands which means sanitizer bottle is left with very less amount of sanitizer in it so an email notification is send in blynk app to remind the person to refill the sanitizer bottle.
 
 <img src="output/email_notif.png" width="200" >
 
