@@ -69,22 +69,22 @@ To develop a completely contact free hand sanitizer dispenser.
 #### Technique to automate hand sanitizer dispenser.
 When we place our hand in front of ultrasonic sensor, Arduino will read the signals from these sensors and if hands are in a desired range it will trigger and then the and will turn on the DC motor after receiving signal from Arduino and people will be able to santize thier hands.
 
-<img src="Output/EDA.png" width="600" >
+<img src="output/wl_1.png" width="600" >
 
 #### Technique to get Reminder from Speakers to sanitize hands.
 So Speaker are connected to the ardiuno at pin no 4. the mp3 recorded voice is been formatted to 16bit pcm frequency rate to 8000Hz using audacity. so if the object is not in the desired range the speakers will say Sanitize your hands before entering the premises. if the object is in the desired range as the arduino triggers the dc motor the speakers will say Thankyou for sanitizing your hands and have a nice day!
 
-<img src="Output/EDA.png" width="600" >
+<img src="output/wl_2.png" width="600" >
 
 #### Technique to get Email & mobile notification reminder for refilling sanitizer bottle.
 So ardiuno is interface with Node MCU wifi Module.using blynk app we can set an alert.so for counting no of people santizing thier hands we are using IR sensor.so now if the no of people exceeds the value of alert, then with the help of blynk server and mobile app an Email notification will be send as areminder to refill the hand sanitizer bottle.
 
-<img src="Output/EDA.png" width="600" >
+<img src="output/wl_3.png" width="600" >
 
 #### Technique for Fluid Level Detection and Log record of people using Dispenser.
 So ardiuno is interface with Node MCU wifi Module. using blynk app we can set an value i.e suppose at this count the santizier fluid will be at the empty point and need to refill it. so for counting no of people santizing thier hands we are using IR sensor.so as people starts sanitizng thier hands and as the count of no of people sanitizing thier hands increases, fluid level indicator starts decreasing.also People can live monitor the amount of fluid present in the sanitizer bottle with the help of blynk server on mobile app.we can also see the log record of people sanitizing thier hands daily while setting a virtual pin V1 in code & analyze the records on superchart on mobile application using blynk app.
 
-<img src="Output/EDA.png" width="600" >
+<img src="output/wl_4.png" width="600" >
 
 
 ### Result and discussion
