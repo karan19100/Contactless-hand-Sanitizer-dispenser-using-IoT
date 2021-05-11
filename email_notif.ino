@@ -7,9 +7,9 @@ BlynkTimer timer;
 
 int count=0;
 boolean state = true;
-char auth[] = "yC48lmJ-6Hebu_QMg3QIrBTRvXlUCzV0"; //Auth code sent via Email
-char ssid[] = "Karan_Shah-uo1Sh"; //Wifi name
-char pass[] = "Mksn@1303";  //Wifi Password
+char auth[] = "_______________________________"; //Auth code sent via Email
+char ssid[] = "______________"; //Wifi name
+char pass[] = "*********";  //Wifi Password
 int flag=0;
 int distance;
 
