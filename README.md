@@ -89,7 +89,7 @@ So ardiuno is interface with Node MCU wifi Module. using blynk app we can set an
 
 ### Result and discussion
 
-#### when the first person starts sanitizing his hands the fluid level detector in interface with blynk app shows 100 % filled and the counter shows 1 which       indicates one person has sanitize his hands and superchart is shown to indicate log records of people sanitizing thier hands daily. after sanitizng the speakers also says thank you for sanitizing your hands and have a nice day!
+##### when the first person starts sanitizing his hands the fluid level detector in interface with blynk app shows 100 % filled and the counter shows 1 which       indicates one person has sanitize his hands and superchart is shown to indicate log records of people sanitizing thier hands daily. after sanitizng the speakers also says thank you for sanitizing your hands and have a nice day!
 
 <img src="output/out_1.png" width="600" >
 
