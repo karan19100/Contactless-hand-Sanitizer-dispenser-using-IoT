@@ -8,7 +8,7 @@
  4. Proposed Soultion
  5. Features
  6. Hardware used
- 7. Technologies-used
+ 7. Software Technologies-used
  8. Block Diagram
  9. Circuit Diagram
 10. Workflow
@@ -48,7 +48,7 @@ To develop a completely contact free hand sanitizer dispenser.
 - Speakers 
 - 12V Adapter
 
-### Technologies Used  
+### Software Technologies Used  
 - Arduino IDE 
 - Audacity 
 - VS Code
