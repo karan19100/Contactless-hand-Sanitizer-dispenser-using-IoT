@@ -57,11 +57,11 @@ To develop a completely contact free hand sanitizer dispenser.
 
 ### Block Diagram
 
-<img src="Output/EDA.png" width="600" >
+<img src="output/blk_diag.png" width="600" >
 
 ### Circuit Diagram 
 
-<img src="Output/EDA.png" width="600" >
+<img src="output/ckt diagram.png" width="600" >
 
 
 ### Workflow 
