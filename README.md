@@ -131,7 +131,7 @@ The hardware design of automatic hand sanitizer dispenser shown in the figure 1 
 - It gives email and mobile notification reminder for refilling the sanitizer bottle and also we can monitor live fluid level detection indicator( i.e the amount   of sanitizer fluid present in the bottle) on mobile app.
 - Also we can have a log record of people sanitizing thier hands daily to track how many people sanitize thier hands and it can be used to take surveys about how   much people are aware and taking precautions about covid appropriate behaviour.
 
-###  Made with &nbsp;❤️ by  [Karan Shah](https://github.com/karan19100) , [Kavish Shah](https://www.linkedin.com/in/kavish-shah-4243781b1/) 
+###  Made with &nbsp;❤️ by  [Karan Shah](https://karanshah1910.tech/) , [Kavish Shah](https://www.linkedin.com/in/kavish-shah-4243781b1/) 
 
 
 
