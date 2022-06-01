@@ -117,6 +117,8 @@ So ardiuno is interface with Node MCU wifi Module. using blynk app we can set an
 
 <img src="output/email_notif.png" width="200" >
 
+https://user-images.githubusercontent.com/45121295/171380658-b2299b3c-8869-4bdc-a06b-148ffa2b77e9.mp4
+
 
 ### Features Accuracy
 The hardware design of automatic hand sanitizer dispenser shown in the figure 1 represents, the way ultrasonic and IR sensor are been mount in the box to gives very well accuracy to whole system. the product gives 96-98 % of accuracy for automatic hand sanitizer dispenser. For reminding people for sanitizing thier hands and giving thankyou note after sanitizing hands the product can give accuracy upto 45 %. for email and mobile notification reminders for refilling sanitizer bottle and monitoring live fluid level detection indicator the product can give accuracy upto 91-93 %.and also for log record of people sanitizing thier hands daily to track covid appropriate behaviour amongs the people it can give accuracy upto 81-85%. So the overall accuracy of the system with all the features included in the product can give the accuracy upto 83-85 %.each featuresś accuracy is Shown below in the table as well.
